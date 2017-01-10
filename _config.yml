@@ -1,23 +1,23 @@
 # Site settings
-email: 
+email: yu.locus@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: 思考的角度，成就你的高度
+description: 我不要只是想成功，而是一定要成功
+url: "http://locus.today"
+# twitter_username:
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Locus
+profile_img: "../../../../assets/images/profile.jpg"
+profile: "三十歲這一年開始，要讓自己的想法有所改變。<br />不要老是用事情的表面去處理問題，而必須換個角度去思考問題本身的根源。需要更全面的去考慮問題可能發生的情況，如果這個方式不可行的時候，該如何去應對處理？如何用其他方式來預防意外情況的發生？<br />因為事實發生，往往跟你所想的不一樣！"
 social:
-  github: 
+  github: http://github.com/yulocus
 
 # Build settings
 include: ["_categories"]
