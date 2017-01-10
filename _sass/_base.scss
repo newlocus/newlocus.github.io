@@ -1,15 +1,15 @@
 /**
  * Base Variables
  */
-$font-header: 'Space Mono', monospace;
-$font-body: 'Inconsolata', monospace;
-$font-post: 'Lora', serif;
+$font-header: 'Patua One', cursive;
+$font-body: 'Merriweather', serif;
+$font-post: 'Merriweather', serif;
 
-$color-alpha: #9f8f68;
-$color-alpha--light: #f5f3ef;
+$color-alpha: #c80000;
+$color-alpha--light: #fbfbfb;
 
-$color-black: #0a0a0a;
-$color-grey: #f8f9f9;
+$color-black: #1e1e1e;
+$color-grey: #ffffff;
 $color-white: #fff;
 
 $mq-xs: 20em;
@@ -75,6 +75,13 @@ h1 {
   }
 }
 
+blockquote {
+  color: #7e7e7e;
+  margin:0;
+  padding-left: 3em;
+  border-left: 0.5em #cd7f7f solid;
+}
+
 p {
   margin: 0 0 0.75em;
 }
@@ -102,9 +109,9 @@ img {
 }
 
 ol, ul {
-  margin: 0;
-  padding: 0;
-
+  color: #666666;
+  margin: 1em;
+  padding-left: 1em;
   list-style-type: none;
 }
 
