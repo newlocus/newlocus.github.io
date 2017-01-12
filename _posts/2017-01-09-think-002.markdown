@@ -3,10 +3,10 @@ layout: post
 title: "換個角度想事情"
 date: 2017-01-10
 categories:
-  - ThinkingArt
+  - Think
 description:
-image: "../../../../assets/images/motivate001.jpg"
-image-sm: "../../../../assets/images/motivate001.jpg"
+image: "http://3.bp.blogspot.com/-N2Jaq2GFdqY/VORNFeQLI2I/AAAAAAAABeQ/hrX4Qsqj9Qs/s1600/IMG_0293.jpg"
+image-sm: "http://3.bp.blogspot.com/-N2Jaq2GFdqY/VORNFeQLI2I/AAAAAAAABeQ/hrX4Qsqj9Qs/s1600/IMG_0293.jpg"
 ---
 > 當我面對一件事情，或是處理一個專案，很多時候我會很直覺式的跳下去做，認為做就對了，遇到問題只要將他克服，反正一定是做了才知道問題在哪裡，但是這樣處理的結果，往往問題永遠處理不完！不僅影響了進度，也讓事情衍生出更多問題。
 

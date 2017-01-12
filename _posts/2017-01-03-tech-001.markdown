@@ -1,0 +1,10 @@
+---
+layout: post
+title: "設計模式"
+date: 2017-01-03
+categories:
+  - Tech
+description:
+image: "http://wallpaper.pickywallpapers.com/2560x1600/workplace-with-macbook-and-headphones.jpg"
+image-sm: "http://wallpaper.pickywallpapers.com/2560x1600/workplace-with-macbook-and-headphones.jpg"
+---

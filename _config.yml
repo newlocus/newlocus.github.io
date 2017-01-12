@@ -6,7 +6,7 @@ paginate_path: "/blog/page-:num"
 google_analytics:
 
 # SEO settings
-title: 思考的角度，成就你的高度
+title: Forcing yourself, <br /> out of your comfort zone
 description: 我不要只是想成功，而是一定要成功
 url: "http://locus.today"
 # twitter_username:

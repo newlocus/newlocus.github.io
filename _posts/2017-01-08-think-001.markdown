@@ -1,0 +1,16 @@
+---
+layout: post
+title: "任何成功，都有它的根本之道"
+date: 2017-01-09
+categories:
+  - Think
+description:
+image: "http://s1.picswalls.com/wallpapers/2015/11/21/beautiful-motivation-wallpaper_10342177_288.jpg"
+image-sm: "http://s1.picswalls.com/wallpapers/2015/11/21/beautiful-motivation-wallpaper_10342177_288.jpg"
+---
+
+### 找尋根本，才能了解真正成功的定義
+1. 麥當勞的成功：賣保證
+2. New Skin的成功：賣希望
+3. Nike的成功：賣形象
+4. Uber的成功：賣形象

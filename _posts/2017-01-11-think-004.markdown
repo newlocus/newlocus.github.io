@@ -1,0 +1,13 @@
+---
+layout: post
+title: "價值的定義"
+date: 2017-01-11
+categories:
+  - Think
+description:
+image: "https://www.fitnessnhealthcoach.com/wp-content/uploads/2015/11/Wintermotivation.jpg"
+image-sm: "https://www.fitnessnhealthcoach.com/wp-content/uploads/2015/11/Wintermotivation.jpg"
+---
+
+### 思考點：
+> 在一般雜貨店所買的可口可樂，一瓶只要30塊就能買到，或許它在其他飲料中相對高價了，所以你有更多其他選擇。但在五星級餐廳裡所販賣的飲料，只有可口可樂，但一瓶卻是200元，但大多數的人卻在這選擇了購買可口可樂。這其中有了什麼差別？一樣都是可口可樂，為什麼會有這樣選擇上的改變？
