@@ -5,8 +5,8 @@ date: 2017-01-11
 categories:
   - Think
 description:
-image: "https://www.fitnessnhealthcoach.com/wp-content/uploads/2015/11/Wintermotivation.jpg"
-image-sm: "https://www.fitnessnhealthcoach.com/wp-content/uploads/2015/11/Wintermotivation.jpg"
+image: "https://images5.alphacoders.com/432/thumb-1920-432156.jpg"
+image-sm: "https://images5.alphacoders.com/432/thumb-1920-432156.jpg"
 ---
 
 ### 思考點：

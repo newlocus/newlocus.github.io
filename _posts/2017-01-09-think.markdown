@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "換個角度想事情"
-date: 2017-01-10
+date: 2017-01-09
 categories:
   - Think
 description:

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "方向的重要性"
-date: 2017-01-11
+date: 2017-01-10
 categories:
   - Think
 description:
-image: "http://1.bp.blogspot.com/-VphaqgbyK8U/Up0jcTi1-zI/AAAAAAAAFds/5akMhDMT_JM/s1600/DSC07404.JPG"
-image-sm: "http://1.bp.blogspot.com/-VphaqgbyK8U/Up0jcTi1-zI/AAAAAAAAFds/5akMhDMT_JM/s1600/DSC07404.JPG"
+image: "http://vocalbalance.info/images/article_images/pic_for_Articles/160726change/PIC1.jpeg"
+image-sm: "http://vocalbalance.info/images/article_images/pic_for_Articles/160726change/PIC1.jpeg"
 ---
 
 ### 發人省思的一句話
