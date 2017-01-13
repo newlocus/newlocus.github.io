@@ -9,10 +9,6 @@ image: "https://i.vimeocdn.com/video/585330765.jpg?mw=1920&mh=1080&q=70"
 image-sm: "https://i.vimeocdn.com/video/585330765.jpg?mw=1920&mh=1080&q=70"
 ---
 
-<iframe width="420" height="315"
-src="www.youtube.com/watch?v=3wrto8oJu5A?autoplay=1">
-</iframe>
-
 ### 抉擇的勇敢
 > Johnson Goh 你真的是我見過最棒的老闆！往後的路，雖然沒有辦法跟你一起衝刺學習，但是你是我這段新創旅途上最最最重要的心靈導師，要我更全面的去思考問題，更效率的去解決問題，更無懼的去請求別人，更勇敢的去面對一切。
 你也別擔心我不聯絡你，遇到任何解不開的問題，你就等著我吵你！也記得回收你的失望，我會做的更好，我們是永遠的朋友！
